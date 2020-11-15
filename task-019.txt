@@ -1,0 +1,3 @@
+Generalize Fizzbuzz
+
+Create functions with parameters to customize Fizzbuzz

@@ -1,0 +1,1 @@
+Before checking the solutions please write some code first, then check later the solution!

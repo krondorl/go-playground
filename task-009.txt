@@ -1,0 +1,5 @@
+Create lottery random functions
+
+5 numbers in range of 1..90
+6 numbers in range of 1..45
+7 numbers in range of 1..35

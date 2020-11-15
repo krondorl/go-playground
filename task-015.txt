@@ -1,0 +1,6 @@
+Abbreviations
+
+Make a function, which creates an abbreviation.
+Eg.
+world wide web -> WWW
+sausage lovers' society -> SLS

@@ -1,0 +1,4 @@
+Wordcounter
+
+1. Count the words given in an input.txt file.
+2. Print the wordcount to the screen.

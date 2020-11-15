@@ -1,0 +1,5 @@
+Map, filter, reduce
+
+Write an example program of using these methods.
+
+Go doesn't have built in functions, but build your own version of them.

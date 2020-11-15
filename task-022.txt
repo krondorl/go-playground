@@ -1,0 +1,14 @@
+Dog Age Calculator
+
+Calculate the Human age of a dog.
+
+"A dog's human age = 16 ln * your dog's age + 31.
+(The ln in this formula refers to the natural log of a number.)"
+
+https://www.businessinsider.com/calculating-dog-age-human-years-2020-7
+
+"Your 1-year-old dog isn't 7 human years old,
+contrary to the traditional math.
+It's more like 30 years old, new research shows."
+Aylin Woodward
+Jul 3, 2020, 2:25 PM

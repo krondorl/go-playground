@@ -1,0 +1,4 @@
+FP style
+
+Implement functional programming algorithms.
+eg. head, last, tail, sum, maximum, double, applyTwice
