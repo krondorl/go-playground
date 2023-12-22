@@ -1,4 +1,0 @@
-Create a Factorial function and a Fibonacci function
-
-Use and integer as input and output
-Use recursion
